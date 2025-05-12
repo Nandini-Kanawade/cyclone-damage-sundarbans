@@ -21,7 +21,6 @@ This project analyzes the impacts of five major cyclones—Fani, Amphan, Bulbul,
 - `src/` – GEE scripts and analysis code
 - `report/` – Full LaTeX project and compiled PDF
 - `results/` – Output maps and summary tables
-- `data/` – (Optional) Sample or processed data for reference
 
 ## 📄 Report
 
