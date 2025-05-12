@@ -25,7 +25,7 @@ This project analyzes the impacts of five major cyclones—Fani, Amphan, Bulbul,
 
 ## 📄 Report
 
-Access the full PDF report [here](./report/Sundarbans_Cyclone_Assessment.pdf) (or upload and link to your actual report).
+Access the full PDF report [here](./report/Paper_CycloneDamageAssessment.pdf)
 
 ## 🤝 Authors
 
